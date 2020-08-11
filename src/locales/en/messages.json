@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "react-extension-webpack"
+    },
+    "appShortName": {
+        "message": "react-extension-webpack"
+    },
+    "appDescription": {
+        "message": "React Extension With Webpack 4"
+    }
+}
